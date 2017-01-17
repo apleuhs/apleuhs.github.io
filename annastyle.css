@@ -1,0 +1,19 @@
+.jumbotron {
+    position: relative;
+    height: 100%;
+    background-image: url("golddots.png");
+    background-color: gold;
+    background-size: cover;
+    overflow: hidden;
+    width: inherit;
+  }
+.navbar {
+      font-family: arial;
+      color: black;
+      font-size: 36px;
+      padding-top: 20px;
+}
+.Mainheadline {
+      font-family: 'Pacifico', cursive;
+      font-size: 80px;
+    }

@@ -8,12 +8,16 @@
     width: inherit;
   }
 .navbar {
-      font-family: arial;
-      color: black;
-      font-size: 36px;
-      padding-top: 20px;
+    font-family: arial;
+    color: black;
+    font-size: 36px;
+    padding-top: 20px;
 }
 .Mainheadline {
-      font-family: 'Pacifico', cursive;
-      font-size: 80px;
+    font-family: 'Pacifico', cursive;
+    font-size: 80px;
     }
+.aboutme {
+  text-decoration: underline;
+  font-family: 'Pacifico'
+}
